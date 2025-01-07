@@ -50,6 +50,12 @@ strokeWeight(4)
     strokeWeight(15)
      arc(104,140,200,103,radians(210),radians(300))
          arc(300,140,200,103,radians(240),radians(330))
+        
+        stroke(255,0,0);
+         strokeWeight(60)
+         point(182,220)
+         stroke(0,0,0)
+         
     
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
